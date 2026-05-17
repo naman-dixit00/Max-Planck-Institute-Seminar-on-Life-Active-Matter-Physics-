@@ -1,16 +1,16 @@
 #  Max Planck Institute for Dynamics and Self-Organization (MPIDS)
 
-## LMP Seminar: Pattern Formation by Turbulent Cascades
+## LMP Seminar: Pattern Formation by Turbulent Cascades  
 
-**Seminar Title:** Pattern Formation by Turbulent Cascades
-**Speaker:** Dr. Michel Fruchart
-**Affiliation:** CNRS Researcher, Gulliver Laboratory, ESPCI & PSL University, France
-**Date:** February 24, 2026
-**Time:** 14:00 – 15:30 (Local Time, Germany)
-**Location:** Max Planck Institute for Dynamics and Self-Organization (MPIDS)
-**Room:** Riemannraum 1.40 & Zoom (Meeting ID: 997 1155 2453 | Passcode: 771001)
-**Host:** MPIDS / LMP
-
+**Seminar Title:** Pattern Formation by Turbulent Cascades  
+**Speaker:** Dr. Michel Fruchart  
+**Affiliation:** CNRS Researcher, Gulliver Laboratory, ESPCI & PSL University, France  
+**Date:** February 24, 2026  
+**Time:** 14:00 – 15:30 (Local Time, Germany)  
+**Location:** Max Planck Institute for Dynamics and Self-Organization (MPIDS)  
+**Room:** Riemannraum 1.40 & Zoom (Meeting ID: 997 1155 2453 | Passcode: 771001)  
+**Host:** MPIDS / LMP  
+ 
 ---
 
 ## Overview
